@@ -1,0 +1,28 @@
+#my-header {
+  background-color: lightsteelblue;
+  color: darkslategrey;
+  padding: 40px;
+  text-align: center;
+  font-family: courier;
+}
+#myHeader {
+  background-color: darkseagreen;
+  color: rgb(55, 59, 59);
+  padding: 40px;
+  text-align: center;
+}
+.city {
+  background-color: plum;
+  color: rgb(55, 59, 59);
+  padding: 10px;
+}
+#text {
+  background-color:coral;
+  font-family:courier;
+}
+#background {
+  background-color:cadetblue;
+}
+#background2 {
+  background-color:lightblue;
+}
